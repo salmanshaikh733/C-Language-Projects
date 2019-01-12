@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/salma/CLionProjects/ASN52211/bstree.h
+datatype.h
+C:/Users/salma/CLionProjects/ASN52211/datatype.h
+
+C:/Users/salma/CLionProjects/ASN52211/datatype.h
+
+C:/Users/salma/CLionProjects/ASN52211/matrix.c
+stdio.h
+-
+stdlib.h
+-
+matrix.h
+C:/Users/salma/CLionProjects/ASN52211/matrix.h
+
+C:/Users/salma/CLionProjects/ASN52211/matrix.h
+bstree.h
+C:/Users/salma/CLionProjects/ASN52211/bstree.h
+
